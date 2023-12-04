@@ -48,7 +48,7 @@ void drawTree(){
 }
 
 void drawSphere(u_char col, u_char row, u_int colorBGR){
-  fillRectangle(col+26, row+27, 3, 3, colorBGR);
+  fillRectangle(col+26, row+27, 4, 4, colorBGR);
 }
 
 void drawEffects(){
